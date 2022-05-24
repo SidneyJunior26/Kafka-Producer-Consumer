@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mvcMqPjnJoBiIVoBjI62T5CYxg2E7rH3PzpYC5yt3LND/t0pUOZR2PECCRloSJzO+aBoWZdvqZgcwg6NXkeuHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\s.da.costa.junior\\OneDrive - Avanade\\Learn\\Youtube\\Kafka\\kafka-producer-simples-csharp\\Kafka-Producer\\Kafka-Producer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\s.da.costa.junior\\.nuget\\packages\\confluent.kafka\\1.8.2\\confluent.kafka.1.8.2.nupkg.sha512",
+    "C:\\Users\\s.da.costa.junior\\.nuget\\packages\\librdkafka.redist\\1.8.2\\librdkafka.redist.1.8.2.nupkg.sha512",
+    "C:\\Users\\s.da.costa.junior\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
